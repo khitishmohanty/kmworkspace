@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'ptsans'; 
+    src: url('PTSans-Regular.ttf');
+}
+
+.export:before {
+    border-radius: 5px;
+    border: .5px thin #FFFFFF;
+    font-family: 'ptsans';
+    color: #FFFFFF;
+    background-color:#8AC539;
+    padding: 0px;
+    }
